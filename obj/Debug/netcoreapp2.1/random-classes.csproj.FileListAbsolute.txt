@@ -1,0 +1,11 @@
+C:\Users\jacob\workspace\csharp\exercises\random-classes\bin\Debug\netcoreapp2.1\random-classes.deps.json
+C:\Users\jacob\workspace\csharp\exercises\random-classes\bin\Debug\netcoreapp2.1\random-classes.runtimeconfig.json
+C:\Users\jacob\workspace\csharp\exercises\random-classes\bin\Debug\netcoreapp2.1\random-classes.runtimeconfig.dev.json
+C:\Users\jacob\workspace\csharp\exercises\random-classes\bin\Debug\netcoreapp2.1\random-classes.dll
+C:\Users\jacob\workspace\csharp\exercises\random-classes\bin\Debug\netcoreapp2.1\random-classes.pdb
+C:\Users\jacob\workspace\csharp\exercises\random-classes\obj\Debug\netcoreapp2.1\random-classes.csprojAssemblyReference.cache
+C:\Users\jacob\workspace\csharp\exercises\random-classes\obj\Debug\netcoreapp2.1\random-classes.csproj.CoreCompileInputs.cache
+C:\Users\jacob\workspace\csharp\exercises\random-classes\obj\Debug\netcoreapp2.1\random-classes.AssemblyInfoInputs.cache
+C:\Users\jacob\workspace\csharp\exercises\random-classes\obj\Debug\netcoreapp2.1\random-classes.AssemblyInfo.cs
+C:\Users\jacob\workspace\csharp\exercises\random-classes\obj\Debug\netcoreapp2.1\random-classes.dll
+C:\Users\jacob\workspace\csharp\exercises\random-classes\obj\Debug\netcoreapp2.1\random-classes.pdb
